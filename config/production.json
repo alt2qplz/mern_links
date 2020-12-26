@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "alexander mern",
+  "mongoURI": "mongodb+srv://alexander:mern2020@cluster0.7zrjs.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
